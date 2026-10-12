@@ -1,0 +1,3 @@
+route_id,service_id,trip_id,trip_headsign,direction_id
+R1,WKDY,T1,Ocean Beach,0
+R2,WKDY,T2,Downtown,1

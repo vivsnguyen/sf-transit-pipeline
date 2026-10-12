@@ -1,0 +1,4 @@
+stop_id,stop_name,stop_lat,stop_lon,unknown_extra_column
+S1,"Market St & 4th St",37.7853,-122.4056,x
+S2,"Mission St, Inbound",37.7793,-122.4140,y
+S3,Ocean Beach,37.7597,-122.5090,z
